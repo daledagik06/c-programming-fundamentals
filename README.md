@@ -11,18 +11,18 @@ These programs demonstrate foundational knowledge in:
 - Terminal-based user interfaces
 - Basic algorithm implementation
 
-———
+---
 
 ##Computer Science Concepts##
 Program | Description 
-2d_array_table.c — Displays a 2d Table Array
-array_rotation.c — Rotates array elements left or right
-diagonal_sum_2d.c — Counts sum of 2D array diagonals
-reverse_array.c — Reverses array elements first_teletype_splash.c —ASCII art display of initials PDS
-reversed_array — Displays the reveared array of an input.
-second_teletype_splash.c
-test_diagonal_sum — the testing version of diagonal_sum.c
-third_teletype_splash.c
+1. 2d_array_table.c — Displays a 2d Table Array
+2. array_rotation.c — Rotates array elements left or right
+3. diagonal_sum_2d.c — Counts sum of 2D array diagonals
+4. reverse_array.c — Reverses array elements first_teletype_splash.c —ASCII art display of initials PDS
+5. reversed_array — Displays the reveared array of an input.
+6. second_teletype_splash.c
+7. test_diagonal_sum — the testing version of diagonal_sum.c
+8. third_teletype_splash.c
 
 ##Basic Programs##
 Program | Description
@@ -40,7 +40,7 @@ Program | Description
 Program | Description
 1. practical_exam.c — Group practical exam — multiple problems: Teletype Group Splash, Number Trick and Racing Game
 
-———
+---
 
 Language used:
 C (GCC Compiler)
